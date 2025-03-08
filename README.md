@@ -11,16 +11,16 @@ Skills Learned
 
 Tools Used
 
--Linux shell
+- Linux shell
 
 Steps
 
--Opening a encrypted file
+- Opening a encrypted file
 
 ![Screenshot 2025-03-08 180636](https://github.com/user-attachments/assets/61ca427b-1cb0-4a65-a15a-3df10eab54fa)
 
 
--Decrypting a file
+- Decrypting a file
 
 ![Screenshot 2025-03-08 181356](https://github.com/user-attachments/assets/e2af8a8e-2114-4126-91b1-3ca705f58609)
 
